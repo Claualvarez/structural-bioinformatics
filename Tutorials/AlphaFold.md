@@ -5,7 +5,8 @@ The Colab notebook that we will use was created by Sergey Ovchinnikov, Milot Mir
 
 ## Before we start ...
 1. What is a Colab notebook? \
-[_“Colab” is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser[...] More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs._](https://research.google.com/colaboratory/faq.html)
+>“Colab” is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser[...] More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs. 
+From [Colab FAQ] (https://research.google.com/colaboratory/faq.html)
 
 
 https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/AlphaFold2_advanced.ipynb
