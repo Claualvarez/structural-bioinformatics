@@ -31,5 +31,5 @@ Let's modify the following input parameters: \
 **query_sequence:**  Copy and paste your sequence for this exercise here. \
 **jobname:** It is highly recommended to use a short and descriptive jobname. \
 **msa_model:** The options here allow you to select the database to construct an input Multiple Sequence Alignment. \
-    - If your sequence is from a natural protein, use `UniRef+Envirnmental`.
+    - If your sequence is from a natural protein, use `UniRef+Envirnmental`. \
     - If your sequence is a de novo engenieered sequence, use the `single sequence` option.
