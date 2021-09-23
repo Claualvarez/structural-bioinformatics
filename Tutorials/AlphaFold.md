@@ -29,4 +29,5 @@ If you  have a Google account, click on the Sign in button on the upper sight co
 
 Let's modify the following input parameters: \
 **query_sequence:**  Copy and paste your sequence for this exercise here. \
-**jobname:** It is higly reccommended to use a short and descriptive jobname.
+**jobname:** It is highly recommended to use a short and descriptive jobname. \
+**msa_model:** The options here allow you to select the database to construct an input Multiple Sequence Alignment.
