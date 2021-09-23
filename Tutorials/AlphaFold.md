@@ -29,7 +29,10 @@ If you  have a Google account, click on the Sign in button on the upper sight co
 
 Let's modify the following input parameters: \
 **query_sequence:**  Copy and paste your sequence for this exercise here. \
-**jobname:** It is highly recommended to use a short and descriptive jobname. \
+**jobname:** It is highly recommended to use a short and descriptive jobname. 
+
+![Settings](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabSettings.png)
+
 **msa_model:** The options here allow you to select the database to construct an input Multiple Sequence Alignment. \
     - If your sequence is from a natural protein, use `UniRef+Envirnmental`. \
     - If your sequence is a de novo engineered sequence, use the `single sequence` option.
