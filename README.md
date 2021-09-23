@@ -1,4 +1,4 @@
-# ISCB-LA SoIBio BioNetMX 2020 workshop
+# Quick tutorials on structural bioinformatics for evolutionary analysis
 
 ##  Introduction to structural bioinformatics for evolutionary analysis
 Three-dimensional structure analyses can provide a biophysical understanding of how proteins work and evolve. Most evolutionary studies are based solely on sequence data. However, point mutations and sequence rearrangements have implications for protein structure. This tutorial will familiarize participants with straightforward bioinformatics protocols for combining evolutionary information and biophysical understanding of proteins. Furthermore, many proteins contain unstructured regions in their native state. We will provide cutting edge bioinformatics algorithms to analyze both folded protein domains and intrinsically disordered proteins and regions. We will focus on protein structure classification, structure comparison methods and evolutionary analyses.  
@@ -9,14 +9,12 @@ This workshop is intended for a beginner level audience. No previous experience 
 
 | Time   | Activity |
 | :-----------: | :-----|
-| 10 min | Welcome and introduction |
 | 30 min | [Web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) |
 | 50 min | [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) |
-| 15 min | Break |
 | 30 min | [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) |
 | 45 min | [Correspondences between protein sequence and structure](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md) |
 | 45 min | [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) |
-| 05 min | Wrap-up and feedback | 
+| 30 min | Structure prediction |
 
  
 ### Learning outcomes
@@ -28,7 +26,7 @@ By the end of the workshop, attendants should be able to:
 - Predict intrinsically disordered regions in amino acid sequences.
 - Use structure superimposition to guide phylogenetic analyses.
 
-### Tutorial instructors
+### Tutorial authors
 **Claudia Alvarez Carreño, MD, PhD** \
 *Georgia Institute of Technology, USA*\
 email: ccarreno6(at)gatech.edu	
