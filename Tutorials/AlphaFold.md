@@ -20,6 +20,6 @@ The Colab notebook that we will use was created by Sergey Ovchinnikov, Milot Mir
    - The following [link](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
    - Your favourite amino acid sequence. Just the sequence, without header. \
      Here is an example:  \
-     `AA`
+     `KGKEGKVLKVDPKKGRVVVEGVNGEVEVPIHPSHVRKGDTVKVIAGNKGKEGKVLKVDPKK`
 
 https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/AlphaFold2_advanced.ipynb
