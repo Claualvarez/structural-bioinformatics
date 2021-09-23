@@ -22,4 +22,4 @@ For this tutorial you will need an amino acid sequence. (Just the sequence, with
      
 Open the following [link](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) in a new tab.
 
-!(https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFold2Colab1.png)
+![AlphaFoldColab](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFold2Colab1.png)
