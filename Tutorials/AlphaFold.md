@@ -23,3 +23,6 @@ For this tutorial you will need an amino acid sequence. (Just the sequence, with
 Open the following [link](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) in a new tab.
 
 ![AlphaFoldColab](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColab1.png)
+
+To run a code in Colab you will need to sign in to a google account. \
+If you  have a Google account, click on the Sign in button on the upper sight corner of the screen.
