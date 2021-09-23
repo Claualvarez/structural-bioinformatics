@@ -27,12 +27,15 @@ Open the following [link](https://colab.research.google.com/github/sokrypton/Col
 To run a code in Colab you will need to sign in to a google account. \
 If you  have a Google account, click on the Sign in button on the upper sight corner of the screen.
 
-Let's modify the following input parameters: \
+### Settings 
 **query_sequence:**  Copy and paste your sequence for this exercise here. \
 **jobname:** It is highly recommended to use a short and descriptive jobname. 
-
-![Settings](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabSettings.png)
-
 **msa_model:** The options here allow you to select the database to construct an input Multiple Sequence Alignment. \
     - If your sequence is from a natural protein, use `UniRef+Envirnmental`. \
     - If your sequence is a de novo engineered sequence, use the `single sequence` option.
+**num_models:** For this exercise, we will calculate only one model. 
+**use amber:** This will allow you to refine the peptide bond geeometry with the AMBER force field.
+**use_templates:** select this option if you expect your protein to have homologs with a solved structure in the PDB.
+
+![Settings](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabSettings.png)
+
