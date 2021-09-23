@@ -45,5 +45,5 @@ Scroll down and read the Instructions in this Colab.
 
 ![Settings](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabSettings.png)
 
-**We are ready to run all!**
+**We are ready to run all!** \
 Use `Ctrl` + `F9` on your keybord or click all the play buttons in order.
