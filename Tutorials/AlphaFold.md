@@ -5,7 +5,9 @@ The Colab notebook that we will use was created by Sergey Ovchinnikov, Milot Mir
 
 ## Before we start ...
 **1. What is AlphaFold**
-
+> AlphaFold is an artificial intelligence (AI) program developed by Google's DeepMind which performs predictions of protein structure.
+> 
+> [Quote from Wikipedia](https://en.wikipedia.org/wiki/AlphaFold)
 
 **2. What is a Colab notebook?** 
 > *“Colab” is a product from Google Research. \
