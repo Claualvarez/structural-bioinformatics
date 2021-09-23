@@ -15,6 +15,8 @@ The Colab notebook that we will use was created by Sergey Ovchinnikov, Milot Mir
 >
 > [Quote from Colab FAQ](https://research.google.com/colaboratory/faq.html)
 
+
+
 ## Getting started
 For this tutorial you will need an amino acid sequence. (Just the sequence, without a sequence header). \
      Here is an example:  \
@@ -26,6 +28,10 @@ Open the following [link](https://colab.research.google.com/github/sokrypton/Col
 
 To run a code in Colab you will need to sign in to a google account. \
 If you  have a Google account, click on the Sign in button on the upper sight corner of the screen.
+Scroll down and read the Instructions in this Colab.
+
+![ColabInstructions](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabInstructions.png)
+
 
 ### Settings 
 **query_sequence:**  Copy and paste your sequence for this exercise here. \
@@ -39,3 +45,5 @@ If you  have a Google account, click on the Sign in button on the upper sight co
 
 ![Settings](https://github.com/Claualvarez/structural-bioinformatics/blob/main/Tutorials/Figures/AlphaFoldColabSettings.png)
 
+**We are ready to run all!**
+Use `Ctrl` + `F9` on your keybord or click all the play buttons in order.
