@@ -26,3 +26,7 @@ Open the following [link](https://colab.research.google.com/github/sokrypton/Col
 
 To run a code in Colab you will need to sign in to a google account. \
 If you  have a Google account, click on the Sign in button on the upper sight corner of the screen.
+
+Let's modify the following input parameters:
+**Query sequence:**  Copy and paste your sequence for this exercise here. \
+**jobname:** It is higly reccommended to use a short and descriptive jobname.
