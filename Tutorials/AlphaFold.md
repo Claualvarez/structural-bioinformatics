@@ -15,11 +15,9 @@ The Colab notebook that we will use was created by Sergey Ovchinnikov, Milot Mir
 >
 > [Quote from Colab FAQ](https://research.google.com/colaboratory/faq.html)
 
-**3. What do I need for this tutorial?**
-   - A web browser
-   - The following [link](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
-   - Your favourite amino acid sequence. (Just the sequence, without a sequence header). \
+## Getting started
+For this tutorial you will need an amino acid sequence. (Just the sequence, without a sequence header). \
      Here is an example:  \
      `KGKEGKVLKVDPKKGRVVVEGVNGEVEVPIHPSHVRKGDTVKVIAGNKGKEGKVLKVDPKK`
-
-## Getting started
+     
+Open the following [link](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) in a new tab.
